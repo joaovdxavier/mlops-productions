@@ -8,3 +8,5 @@ You can find some summaries of articles I've read in this repo under ```articles
 Here you can verify all of my Dataquest certificates.
 
 * [Git and Version Control](https://app.dataquest.io/view_cert/4CURY7QQ6SH0UEA5KYJL);
+
+* [Elements of the Command Line](https://app.dataquest.io/view_cert/69T6TVCS2KUMAPMBAZV2);
