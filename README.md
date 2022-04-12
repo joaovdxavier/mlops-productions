@@ -10,5 +10,7 @@ Here you can verify all of my Dataquest certificates.
 * [Git and Version Control](https://app.dataquest.io/view_cert/4CURY7QQ6SH0UEA5KYJL);
 
 * [Elements of the Command Line](https://app.dataquest.io/view_cert/69T6TVCS2KUMAPMBAZV2);
-* 
+
+* [Functions: advanced](https://app.dataquest.io/view_cert/XJLOPHMS7VQ4VY88R83H);
+
 * [Text Processing in the Command Line](https://app.dataquest.io/view_cert/J46W4XOURDEDNJE1XXRY);
