@@ -14,3 +14,9 @@ Here you can verify all of my Dataquest certificates.
 * [Functions: advanced](https://app.dataquest.io/view_cert/XJLOPHMS7VQ4VY88R83H);
 
 * [Text Processing in the Command Line](https://app.dataquest.io/view_cert/J46W4XOURDEDNJE1XXRY);
+
+## Other Links
+
+### Repositories
+* [Applying Clean Code principles to a Dataquest Project
+](https://github.com/joaovdxavier/mlops-productions.git) - In this repository I use the concepts of "Clean Code Programming" that I learned in the classes to clean a real-world code.
